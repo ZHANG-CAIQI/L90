@@ -8,3 +8,6 @@ Several reference repositories are listed here:
 - https://github.com/macanv/BERT-BiLSTM-CRF-NER
 - https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf
 - https://github.com/achernodub/targer
+
+Transfer OntoNotes 5.0 to BIO format:
+- https://github.com/ArrowLuo/OntoNotes-5.0-NER-BIO
